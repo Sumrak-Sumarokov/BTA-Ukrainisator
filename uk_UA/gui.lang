@@ -7,10 +7,13 @@ gui.options.page.texture_packs.button.open_folder=Відкрити теку
 gui.options.page.texture_packs.button.apply=Задіяти пакет текстур
 gui.options.page.texture_packs.label.no_packs=Порожньо :(
 gui.options.page.texture_packs.label.outdated_pack.1=Застарілий пакет текстур!
-gui.options.page.texture_packs.label.outdated_pack.2=Цей пакет текстур не придатний для поточної версії BTA!
+gui.options.page.texture_packs.label.outdated_pack.2=Цей пакет текстур не підходить для поточної версії BTA!
 
 gui.controller_setup.label.help.1=Якщо жодного контролера не виявлено, переконайся,
 gui.controller_setup.label.help.2=що все під'єднано правильно та перезапусти гру.
+
+gui.options.page.player.title=Гравець
+gui.options.page.player.category.player=Гравець
 //
 
 
@@ -72,6 +75,7 @@ gui.no_minecraft.label.body.4=Зазвичай, таке трапляється,
 gui.no_minecraft.label.body.5=Переглянь інструкцію по встановленню нижче.
 gui.no_minecraft.button.guide=Інструкція
 gui.no_minecraft.button.quit=Вийти
+
 
 gui.conflict_warning.label.title=Несумісність файлів збереження
 gui.conflict_warning.label.body.1=Minecraft виявив незбіжність файлів збереження світу.
@@ -187,7 +191,7 @@ gui.main_menu.label.downloading_resources.2=До завершення цього
 gui.main_menu.button.singleplayer=Гра наодинці
 gui.main_menu.button.multiplayer=Гра в мережі
 gui.main_menu.button.multiplayer.disabled=Гра в мережі (ще не дороблено!)
-gui.main_menu.button.texture_packs=Пакети ресурсів
+gui.main_menu.button.texture_packs=Пакети текстур
 gui.main_menu.button.options=Параметри...
 gui.main_menu.button.quit_game=Вийти з гри
 gui.main_menu.button.discord=Discord
@@ -212,12 +216,9 @@ gui.options.page.general.title=Загальне
 gui.options.page.general.button.open_worlds_folder=Відкрити теку світів
 gui.options.page.general.button.open_screenshots_folder=Відкрити теку знятків
 gui.options.page.general.button.edit_hud=Редагувати інтерфейс...
-gui.options.page.general.category.gameplay=Правила взаємодії
+gui.options.page.general.category.gameplay=Ігролад
 gui.options.page.general.category.user_interface=Інтерфейс користувача
 gui.options.page.general.category.miscellaneous=Інше
-
-gui.options.page.player.title=Гравець
-gui.options.page.player.category.player=Гравець
 
 gui.options.page.audio.title=Аудіо
 gui.options.page.audio.category.audio=Аудіо
@@ -227,9 +228,9 @@ gui.options.page.accessibility.title=Доступність
 gui.options.page.accessibility.category.accessibility=Доступність
 
 gui.options.page.video.title=Відео
-gui.options.page.video.category.graphics=Зображення
+gui.options.page.video.category.graphics=Графіка
 gui.options.page.video.category.performance=Продуктивність
-gui.options.page.video.category.post_processing=Обробка зображення
+gui.options.page.video.category.post_processing=Постобробка зображення
 gui.options.page.video.category.visuals=Візуальні ефекти
 
 gui.options.page.controls.title=Керування
@@ -241,7 +242,7 @@ gui.options.page.controls.category.controller=Контролер
 gui.options.page.controls.category.interactions=Взаємодії
 gui.options.page.controls.category.movement=Пересування
 gui.options.page.controls.category.user_interface=Інтерфейс користувача
-gui.options.page.controls.category.hotbar=Підручна смуга
+gui.options.page.controls.category.hotbar=Панель швидкого доступу
 gui.options.page.controls.category.view=Поле зору
 gui.options.page.controls.category.miscellaneous=Інше
 
@@ -253,7 +254,7 @@ gui.options.page.asset_packs.button.open_folder=Відкрити теку
 gui.options.page.asset_packs.button.apply=Задіяти пакет ресурсів
 gui.options.page.asset_packs.label.no_packs=Порожньо :(
 gui.options.page.asset_packs.label.outdated_pack.1=Застарілий пакет!
-gui.options.page.asset_packs.label.outdated_pack.2=Цей пакет не придатний для поточної версії BTA!
+gui.options.page.asset_packs.label.outdated_pack.2=Цей пакет не підходить для поточної версії BTA!
 
 gui.options.page.language_packs.title=Мовні пакети
 gui.options.page.language_packs.category.language_packs=Мовні пакети
