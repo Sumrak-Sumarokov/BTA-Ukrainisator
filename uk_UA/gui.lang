@@ -316,7 +316,7 @@ gui.photo_mode.button.intensity=Інтенсивність: %s
 
 gui.select_server.label.title=Обрати сервер
 gui.select_server.label.delete_title=Видалити сервер
-gui.select_server.label.delete_confirm.1=Ти певен що хочеш видалити цей сервер?
+gui.select_server.label.delete_confirm.1=Ти певен, що хочеш видалити цей сервер?
 gui.select_server.label.delete_confirm.2='%s' буде втрачено назавжди! (На дуже-дуже довго!)
 gui.select_server.label.edit.1=Редагувати сервер
 gui.select_server.label.edit.2=Назва сервера
