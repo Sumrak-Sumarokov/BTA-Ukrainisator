@@ -198,8 +198,8 @@ command.commands.whitelist.remove.fail.wrong_name=Не вдалося видал
 #command.commands.save.exception_failure
 **command.commands.save.start=Starting forced save
 command.commands.save.end=Успішно збережено
-command.commands.save.on=Увімкнено авто-збереження
-command.commands.save.off=Вимкнено авто-збереження
+command.commands.save.on=Увімкнено автозбереження
+command.commands.save.off=Вимкнено автозбереження
 **command.commands.save.interval=Setting save interval to %s
 command.commands.save.amount=Setting max chunks saved to %s
 

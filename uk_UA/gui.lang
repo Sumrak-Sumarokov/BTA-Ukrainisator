@@ -1,4 +1,4 @@
-//due to be deleted:
+//compatibility
 gui.options.page.texture_packs.title=Пакети текстур
 gui.options.page.texture_packs.category.textures=Текстури
 gui.options.page.texture_packs.category.texture_packs.available=Наявні пакети текстур
@@ -280,7 +280,7 @@ gui.options.page.debug.button.crash.hard=Спровокувати фатальн
 gui.options.page.debug.button.music.skip=Примусово ввімкнути атмосферну музику
 gui.options.page.debug.button.garbage_collect=Запустити збирач сміття
 
-gui.options.page.search.title=Пошукович
+gui.options.page.search.title=Пошук
 
 gui.sound_test.label.title=Перевірка звуку
 gui.sound_test.label.repo=Сховище звуків: %s

@@ -1,4 +1,4 @@
-//Due to be removed
+//compatibility
 worldType.paradise.default.name=Звичайний
 season.paradise.gold.name=Золотий
 season.paradise.silver.name=Сріблястий
@@ -87,8 +87,8 @@ connect.failed=Помилка підключення
 
 damagetype.combat=Захист від порізів
 damagetype.projectile=Захист від стрілива
-damagetype.blast=Захист від вибухам
-damagetype.fall=Захист від падінню
+damagetype.blast=Захист від вибухів
+damagetype.fall=Захист від падіння
 damagetype.fire=Захист від полум'я
 
 progress.tip=Навід: %s

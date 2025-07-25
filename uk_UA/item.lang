@@ -1,6 +1,6 @@
 item.unknown.desc=Ти ще не стикався з таким предметом.
 
-//Due to be removed
+//compatibility
 item.sulphur.name=Порох
 item.sulphur.desc=Вибухова речовина, отримана з непримиренного кріпера.
 //
