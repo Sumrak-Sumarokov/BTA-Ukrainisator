@@ -1,0 +1,547 @@
+item.unknown.desc=Ти ще не стикався з таким предметом.
+
+//compatibility
+item.sulphur.name=Порох
+item.sulphur.desc=Вибухова речовина, отримана з непримиренного кріпера.
+//
+
+//Я обожнюю Донт Старв
+
+//Знаряддя
+item.tool.calendar.name=Годинник-календар
+item.tool.calendar.desc=Портативний прилад для відстеження пори року.
+item.tool.compass.name=Компас
+item.tool.compass.desc=Завжди вкаже шлях додому.
+item.tool.clock.name=Годинник
+item.tool.clock.desc=Чи не підкажете, котра зараз година?
+
+item.tool.shears.name=Ножиці
+item.tool.shears.desc=Господарське знаряддя для обрізання рослинності й 'зневовнення' овець.
+item.tool.shears.steel.name=Сталеві ножиці
+item.tool.shears.steel.desc=Довговічна альтернатива звичайним ножицям.
+item.tool.fishingrod.name=Вудка
+item.tool.fishingrod.desc=Закинь вудку й спіймай величезну рибину!
+
+item.tool.shovel.wood.name=Дерев'яна лопата
+item.tool.shovel.wood.desc=Розкопуй землю й приховані таємниці цим дерев'яним знаряддям.
+item.tool.pickaxe.wood.name=Дерев'яне кайло
+item.tool.pickaxe.wood.desc=Збирай камінь і досягай великих цілей із цим дерев'яним знаряддям. Саме тут і береться ТВІЙ початок.
+item.tool.axe.wood.name=Дерев'яна сокира
+item.tool.axe.wood.desc=Рубай дерева цим дерев'яним знаряддям... Доволі іронічно.
+item.tool.sword.wood.name=Дерев'яний меч
+item.tool.sword.wood.desc=Колоти гидких почвар цим дрюком.
+item.tool.hoe.wood.name=Дерев'яна мотика
+item.tool.hoe.wood.desc=Оброблюй землю цим дерев'яним знаряддям.
+
+item.tool.shovel.stone.name=Кам'яна лопата
+item.tool.shovel.stone.desc=Розкопуй землю й приховані таємниці цим кам'яним знаряддям.
+item.tool.pickaxe.stone.name=Кам'яне кайло
+item.tool.pickaxe.stone.desc=Колупай камінь і досягай великих цілей із цим кам'яним знаряддям.
+item.tool.axe.stone.name=Кам'яна сокира
+item.tool.axe.stone.desc=Рубай дерева цим кам'яним знаряддям.
+item.tool.sword.stone.name=Кам'яний меч
+item.tool.sword.stone.desc=Вбивай огидних почвар цим кам'яним клинком.
+item.tool.hoe.stone.name=Кам'яна мотика
+item.tool.hoe.stone.desc=Оброблюй землю цим кам'яним знаряддям.
+
+item.tool.shovel.iron.name=Залізна лопата
+item.tool.shovel.iron.desc=Розкопуй землю й приховані таємниці цим залізним знаряддям.
+item.tool.pickaxe.iron.name=Залізне кайло
+item.tool.pickaxe.iron.desc=Колупай камінь і досягай великих цілей із цим залізним знаряддям.
+item.tool.axe.iron.name=Залізна сокира
+item.tool.axe.iron.desc=Рубай дерева цим залізним знаряддям.
+item.tool.sword.iron.name=Залізний меч
+item.tool.sword.iron.desc=Вбивай бридких почвар цим залізним клинком.
+item.tool.hoe.iron.name=Залізна мотика
+item.tool.hoe.iron.desc=Оброблюй землю цим залізним знаряддям.
+
+item.tool.shovel.diamond.name=Діамантова лопата
+item.tool.shovel.diamond.desc=Розкопуй землю й приховані таємниці цим діамантовим знаряддям.
+item.tool.pickaxe.diamond.name=Діамантове кайло
+item.tool.pickaxe.diamond.desc=Колупай камінь і досягай великих цілей із цим діамантовим знаряддям.
+item.tool.axe.diamond.name=Діамантова сокира
+item.tool.axe.diamond.desc=Рубай дерева цим діамантовим знаряддям.
+item.tool.sword.diamond.name=Діамантовий меч
+item.tool.sword.diamond.desc=Вбивай гидотних почвар цим гостролезим діамантовим клинком.
+item.tool.hoe.diamond.name=Діамантова мотика
+item.tool.hoe.diamond.desc=Оброблюй землю цим діамантовим знаряддям.
+
+item.tool.shovel.gold.name=Золота лопата
+item.tool.shovel.gold.desc=Розкопуй землю й приховані таємниці цим делікатним золотим знаряддям.
+item.tool.pickaxe.gold.name=Золоте кайло
+item.tool.pickaxe.gold.desc=Збирай копалини й досягай великих цілей із цим делікатним золотим знаряддям.
+item.tool.axe.gold.name=Золота сокира
+item.tool.axe.gold.desc=Рубай дерева цим делікатним золотим знаряддям.
+item.tool.sword.gold.name=Золотий меч
+item.tool.sword.gold.desc=Занадто м'яке лезо, щоб бути хоч трошки кращім за дерев'яний меч.
+item.tool.hoe.gold.name=Золота мотика
+item.tool.hoe.gold.desc=Занадто делікатне знаряддя для тривалої обробки землі.
+
+item.tool.shovel.steel.name=Сталева лопата
+item.tool.shovel.steel.desc=Копай землю цим довговічним сталевим знаряддям.
+item.tool.pickaxe.steel.name=Сталеве кайло
+item.tool.pickaxe.steel.desc=Колупай камінь і досягай великих цілей із цим довговічним сталевим знаряддям.
+item.tool.axe.steel.name=Сталева сокира
+item.tool.axe.steel.desc=Рубай дерева цим довговічним сталевим знаряддям.
+item.tool.sword.steel.name=Сталевий меч
+item.tool.sword.steel.desc=Вбивай бридких почвар цим довговічним клинком.
+item.tool.hoe.steel.name=Сталева мотика
+item.tool.hoe.steel.desc=Оброблюй землю цим довговічним сталевим знаряддям.
+
+item.tool.firestriker.name=Кресало
+item.tool.firestriker.desc=Навіть не здумай.
+item.tool.firestriker.steel.name=Сталеве кресало
+item.tool.firestriker.steel.desc=Навіть ще згубніший.
+
+item.tool.bow.name=Лук
+item.tool.bow.desc=Зброя для невпинного обстрілу стрілами.
+item.armor.quiver.name=Тула
+item.armor.quiver.desc=Треба утримувати свої стріли модно.
+item.armor.quiver.gold.name=Золота тула
+item.armor.quiver.gold.desc=Постачає нескінченну кількість магічних стріл.
+
+//Обладунки
+item.armor.helmet.leather.name=Шкіряна шапка
+item.armor.helmet.leather.desc=Головне вбрання з коров'ячої шкіри.
+item.armor.chestplate.leather.name=Шкіряна туніка
+item.armor.chestplate.leather.desc=Жакетка з коров'ячої шкіри.
+item.armor.leggings.leather.name=Шкіряні штани
+item.armor.leggings.leather.desc=Штанці з коров'ячої шкіри.
+item.armor.boots.leather.name=Шкіряні чоботи
+item.armor.boots.leather.desc=Пара чоботів з коров'ячої шкіри. Ідеально підійдуть для роботи в огороді. 
+
+item.armor.helmet.chainmail.name=Кольчужний шолом
+item.armor.helmet.chainmail.desc=Складається з крихітних ланцюжків. Можна латати.
+item.armor.chestplate.chainmail.name=Кольчужний нагрудник
+item.armor.chestplate.chainmail.desc=Складається з крихітних ланцюжків. Можна латати.
+item.armor.leggings.chainmail.name=Кольчужні наголінники
+item.armor.leggings.chainmail.desc=Складаються з крихітних ланцюжків. Можна латати.
+item.armor.boots.chainmail.name=Кольчужні чоботи
+item.armor.boots.chainmail.desc=Складаються з крихітних ланцюжків. Можна латати.
+
+item.armor.helmet.iron.name=Залізний шолом
+item.armor.helmet.iron.desc=Стійкий залізний шолом.
+item.armor.chestplate.iron.name=Залізний нагрудник
+item.armor.chestplate.iron.desc=Стійкий залізний нагрудник.
+item.armor.leggings.iron.name=Залізні наголінники
+item.armor.leggings.iron.desc=Стійкі залізні наголінники.
+item.armor.boots.iron.name=Залізні чоботи
+item.armor.boots.iron.desc=Пара стійких залізних чоботів.
+
+item.armor.helmet.diamond.name=Діамантовий шолом
+item.armor.helmet.diamond.desc=Блискучий діамантовий шолом.
+item.armor.chestplate.diamond.name=Діамантовий нагрудник
+item.armor.chestplate.diamond.desc=Блискучий діамантовий нагрудник.
+item.armor.leggings.diamond.name=Діамантові наголінники
+item.armor.leggings.diamond.desc=Блискучі діамантові наголінники.
+item.armor.boots.diamond.name=Діамантові чоботи
+item.armor.boots.diamond.desc=Пара блискучих діамантових чобіт.
+
+item.armor.helmet.gold.name=Золотий шолом
+item.armor.helmet.gold.desc=Делікатний золотий шолом.
+item.armor.chestplate.gold.name=Золотий нагрудник
+item.armor.chestplate.gold.desc=Делікатний золотий нагрудник.
+item.armor.leggings.gold.name=Золоті наголінники
+item.armor.leggings.gold.desc=Делікатні золоті наголінники.
+item.armor.boots.gold.name=Золоті чоботи
+item.armor.boots.gold.desc=Пара делікатних золотих чобіт.
+
+item.armor.helmet.steel.name=Сталевий шолом
+item.armor.helmet.steel.desc=Довговічний сталевий шолом.
+item.armor.chestplate.steel.name=Сталевий нагрудник
+item.armor.chestplate.steel.desc=Довговічний сталевий нагрудник.
+item.armor.leggings.steel.name=Сталеві наголінники
+item.armor.leggings.steel.desc=Довговічні сталеві наголінники.
+item.armor.boots.steel.name=Сталеві чоботи
+item.armor.boots.steel.desc=Пара довговічних сталевих чобіт.
+
+item.armor.boots.iceskates.name=Ковзани
+item.armor.boots.iceskates.desc=Пара ковзанів. Як і в реальному світ, щоб рухатися вперед, треба відштовхуватися вбік. Розважайся!
+
+
+
+//Їжа
+item.food.apple.name=Яблуко
+item.food.apple.desc=Хто яблуко в день з'їдає, того зомбі оминає.
+item.food.cookie.name=Печиво
+item.food.cookie.desc=Смачнюче!
+item.food.stew.mushroom.name=Тушковані гриби
+item.food.stew.mushroom.desc=Ммм... Грибочки.
+item.food.bread.name=Хліб
+item.food.bread.desc=Свіжоспечений хліб. А пахне як!
+item.food.porkchop.raw.name=Сира свинина
+item.food.porkchop.raw.desc=Сирий шмат свинини.
+item.food.porkchop.cooked.name=Смажена свинина
+item.food.porkchop.cooked.desc=Тушковане м'ясо свині. Ще гаряче!
+item.food.apple.gold.name=Золоте яблуко
+item.food.apple.gold.desc=Нездоланний! Непокірний!
+item.food.fish.raw.name=Сира риба
+item.food.fish.raw.desc=Смачніша на вогні та із сіллю.
+item.food.fish.cooked.name=Смажена риба
+item.food.fish.cooked.desc=Смачна риба!
+item.food.cake.name=Торт
+item.food.cake.desc=Це не брехня!
+item.food.pumpkin_pie.name=Гарбузований пиріг
+item.food.pumpkin_pie.desc=Торт - це пирігня!
+item.food.cherry.name=Вишні
+item.food.cherry.desc=Пара наливних червоних ягід.
+item.food.venison.raw.name=Сира оленятина
+item.food.venison.raw.desc=Сирий шмат оленини.
+item.food.venison.cooked.name=Смажена оленятина
+item.food.venison.cooked.desc=Смажений стейк з оленя. Смаковично!
+
+item.ammo.arrow.name=Стріла
+item.ammo.arrow.desc=Стріливо з кременевим вістрям, призначене для стрільби з лука.
+item.ammo.snowball.name=Сніжок
+item.ammo.snowball.desc=Метальні сніжні кульки.
+item.ammo.arrow.gold.name=Золота стріла
+item.ammo.arrow.gold.desc=Стріла із золотим вістрям, яка пронизує ворогів наскрізь.
+item.ammo.charge.explosive.name=Вибуховий заряд
+item.ammo.charge.explosive.desc=Боєприпас для ручниці, вщерть наповнений порохом.
+item.ammo.pebble.name=Камінець
+item.ammo.pebble.desc=Кавалок каменю знайдений в землі.
+item.ammo.fireball.name=Запалювальне ядро
+item.ammo.fireball.desc=Боєприпас для ручниці. Сіє вогонь по широкій площині.
+item.ammo.arrow.purple.name=Фіолетова стріла
+item.ammo.arrow.purple.desc=Га?! Звідки це в тебе?!
+
+item.coal.name=Вугілля
+item.coal.desc=Шматок вугілля, який слугує паливом.
+item.charcoal.name=Деревне вугілля
+item.charcoal.desc=Шматок обвугленої деревини, яка слугує паливом.
+item.diamond.name=Діамант
+item.diamond.desc=Твердющий дорогоцінний камінь для виготовлення знаряддя. А блищить як красиво!
+item.ingot.iron.name=Залізний зливок
+item.ingot.iron.desc=Металевий брусок для виготовлення знаряддя.
+item.ingot.steel.name=Сталевий зливок
+item.ingot.steel.desc=Залізо й вугілля Незеру поєднані в міцний сплав.
+item.ingot.steel.crude.name=Необроблена сталь
+item.ingot.steel.crude.desc=Шматок тільки-но сплавленої сталі.
+item.ingot.gold.name=Золотий зливок
+item.ingot.gold.desc=Золотий брусок для виготовлення знаряддя. Легковагий та легко дряпається.
+
+item.nethercoal.name=Вугілля Незеру
+item.nethercoal.desc=Загадкова вуглеподібна речовина, яка випромінює надзвичайно сильний жар.
+item.cloth.name=Тканина
+item.cloth.desc=Клаптик одягу із зомбі. М’яка й тепла.
+item.chainlink.name=Ланцюжки
+item.chainlink.desc=Здається, з них можна було б латати якісь обладунки.
+
+item.quartz.name=Кварц
+item.quartz.desc=Сяйливий прозорий кристал, який, здається, відбиває світло.
+item.olivine.name=Олівін
+item.olivine.desc=Жовто-зелений дорогоцінний камінь, який, здається, блокує світло.
+
+item.stick.name=Палиця
+item.stick.desc=Відламане гілля. Є незамінною в крафті.
+item.bowl.name=Миска
+item.bowl.desc=Використовується для подання рідких страв.
+
+
+item.string.name=Нитка
+item.string.desc=Шовковиста нитка павука.
+item.feather.chicken.name=Перо
+item.feather.chicken.desc=Видерте з курки.
+item.gunpowder.name=Порох
+item.gunpowder.desc=Вибухова речовина, отримана з непримиренного кріпера.
+item.flint.name=Кремінь
+item.flint.desc=Легковага скалка каменю. Можна використовувати для висікання вогню.
+
+item.seeds.pumpkin.name=Насіння гарбуза
+item.seeds.pumpkin.desc=Для нескінченного джерела гарбузового пирога
+item.seeds.wheat.name=Насіння пшениці
+item.seeds.wheat.desc=Насіння, яке можна садити в ґрунт.
+item.wheat.name=Пшениця
+item.wheat.desc=Свіжозірвана! Можна перетворити на буханку хліба.
+
+item.painting.name=Картина
+item.painting.desc=Гарний малюнок, щоб повісити на стіну.
+
+item.sign.name=Табличка
+item.sign.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.name=Таємна фарбована табличка
+item.sign.painted.desc=Га?! Звідки це в тебе?!
+item.sign.painted.black.name=Чорна табличка
+item.sign.painted.black.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.red.name=Червона табличка
+item.sign.painted.red.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.green.name=Зелена табличка
+item.sign.painted.green.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.brown.name=Коричнева табличка
+item.sign.painted.brown.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.blue.name=Синя табличка
+item.sign.painted.blue.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.purple.name=Фіолетова табличка
+item.sign.painted.purple.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.cyan.name=Бірюзова табличка
+item.sign.painted.cyan.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.silver.name=Світло-сіра табличка
+item.sign.painted.silver.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.gray.name=Сіра табличка
+item.sign.painted.gray.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.pink.name=Рожева табличка
+item.sign.painted.pink.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.lime.name=Лаймова табличка
+item.sign.painted.lime.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.yellow.name=Жовта табличка
+item.sign.painted.yellow.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.lightblue.name=Блакитна табличка
+item.sign.painted.lightblue.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.magenta.name=Пурпурна табличка
+item.sign.painted.magenta.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.orange.name=Помаранчева табличка
+item.sign.painted.orange.desc=Познач свій край або залиш повідомлення для інших.
+item.sign.painted.white.name=Біла табличка
+item.sign.painted.white.desc=Познач свій край або залиш повідомлення для інших.
+
+item.door.oak.name=Дерев'яні двері
+item.door.oak.desc=У кожному домі потрібна хоч одна.
+item.door.iron.name=Залізні двері
+item.door.iron.desc=Зміцнені двері, що відмикаються при подачі редстоунового сигналу.
+item.bucket.name=Відро
+item.bucket.desc=Призначене для перенесення різноманітних рідин.
+item.bucket.water.name=Відро води
+item.bucket.water.desc=Відро, наповнене синявою.
+item.bucket.lava.name=Відро лави
+item.bucket.lava.desc=Відро, наповнене розплавом глибинних мас. Пече!
+item.bucket.milk.name=Відро молока
+item.bucket.milk.desc=Корисно для кісток і зубів.
+
+item.minecart.name=Вагонетка
+item.minecart.desc=Залізний засіб пересування для вивчення глибин.
+item.minecart.chest.name=Вагонетка зі скринею
+item.minecart.chest.desc=Чудово підходить для транспортування багажу по залізничній мережі.
+item.minecart.furnace.name=Вагонетка з піччю
+item.minecart.furnace.desc=Самостійно їде вперед, якщо заправити пальним.
+
+item.saddle.name=Сідло
+item.saddle.desc=Ідеально підійде для... Свині?
+
+item.dust.redstone.name=Пил редстоуну
+item.dust.redstone.desc=Химерний пил, який, здається, має властивості електропровідника.
+item.dust.glowstone.name=Пил світлокаменю
+item.dust.glowstone.desc=Жовтий пил, який, немовби, випромінює світло.
+item.dust.sugar.name=Цукор
+item.dust.sugar.desc=Ласощі без нього ніяк.
+
+
+item.boat.name=Човен
+item.boat.desc=Подорожуй всіма морями та океанами!
+item.leather.name=Шкіра
+item.leather.desc=Скидається на плоску корову. Можна використати для створення обладунків.
+
+item.brick.clay.name=Глиняна цеглина
+item.brick.clay.desc=Поєднай 4 такі разом, щоб створити непохитну основу.
+item.clay.name=Глина
+item.clay.desc=Глейка глина, з якої можна сформувати цеглу.
+item.sugarcane.name=Цукрова тростина
+item.sugarcane.desc=Солоденька, але ти солодше.
+item.paper.name=Папір
+item.paper.desc=Тонкий цукровий папір, на якому можна щось записати.
+item.book.name=Книга
+item.book.desc=Так написано на титулці...
+item.slimeball.name=Слизова кулька
+item.slimeball.desc=Слизьке й вкрай неприємне. Ледве віддирається від рук.
+
+item.egg.chicken.name=Куряче яйце
+item.egg.chicken.desc=Яйко.
+
+
+
+
+item.record.13.name=Платівка
+item.record.13.desc=§413
+item.record.cat.name=Платівка
+item.record.cat.desc=§5cat
+item.record.blocks.name=Платівка
+item.record.blocks.desc=§eblocks
+item.record.chirp.name=Платівка
+item.record.chirp.desc=§echirp
+item.record.far.name=Платівка
+item.record.far.desc=§5far
+item.record.mall.name=Платівка
+item.record.mall.desc=§amall
+item.record.mellohi.name=Платівка
+item.record.mellohi.desc=§2mellohi
+item.record.stal.name=Платівка
+item.record.stal.desc=§fstal
+item.record.strad.name=Платівка
+item.record.strad.desc=§0strad
+item.record.ward.name=Платівка
+item.record.ward.desc=§dward
+item.record.wait.name=Платівка
+item.record.wait.desc=§3wait
+item.record.calm4.name=Платівка
+item.record.calm4.desc=§fcalm4
+item.record.dog.name=Платівка
+item.record.dog.desc=§edog
+
+item.bone.name=Кістка
+item.bone.desc=Моторошно...
+item.dye.name=Таємний барвник
+item.dye.desc=Га?! Звідки це в тебе?!
+item.dye.black.name=Чорнильний мішок
+item.dye.black.desc=Може надати певним блокам порошний, як ізби московитів, колір.
+item.dye.red.name=Пелюстки троянди
+item.dye.red.desc=Може пофарбувати певні блоки в колір калини.
+item.dye.green.name=Зелений барвник
+item.dye.green.desc=Може пофарбувати певні блоки в колір зеленої травоньки.
+item.dye.brown.name=Какао-боби
+item.dye.brown.desc=Пахне шоколадом... Може пофарбувати певні блоки в колір кориці.
+item.dye.blue.name=Лазурит
+item.dye.blue.desc=Може пофарбувати певні блоки у волошковий синій.
+item.dye.purple.name=Фіолетовий барвник
+item.dye.purple.desc=Може пофарбувати певні блоки в бузковий фіолетовий.
+item.dye.cyan.name=Бірюзовий барвник
+item.dye.cyan.desc=Може пофарбувати певні блоки в колір коштовного каменю бірюза.
+item.dye.silver.name=Світло-сірий барвник
+item.dye.silver.desc=Може пофарбувати певні блоки в колір криці.
+item.dye.gray.name=Сірий барвник
+item.dye.gray.desc=Може пофарбувати певні блоки в колір сірого вовка.
+item.dye.pink.name=Рожевий барвник
+item.dye.pink.desc=Може пофарбувати певні блоки в колір чайної троянди.
+item.dye.lime.name=Лаймовий барвник
+item.dye.lime.desc=Може пофарбувати певні блоки в колір квітів липи.
+item.dye.yellow.name=Пелюстки кульбабки
+item.dye.yellow.desc=Може пофарбувати певні блоки в колір достиглого лану пшениці.
+item.dye.lightblue.name=Блакитний барвник
+item.dye.lightblue.desc=Може пофарбувати певні блоки в блакитний, як небо, колір.
+item.dye.magenta.name=Пурпурний барвник
+item.dye.magenta.desc=Може пофарбувати певні блоки в колір бурякового квасу.
+item.dye.orange.name=Помаранчевий барвник
+item.dye.orange.desc=Може пофарбувати певні блоки в колір
+item.dye.white.name=Кісткове борошно
+item.dye.white.desc=Поживне добриво для рослин, але також може використовуватися як білий барвник.
+
+item.bed.name=Ліжко
+item.bed.desc=Нарешті можна відпочити.
+item.repeater.name=Редстоуновий повторювач
+item.repeater.desc=Затримує редстоуновий сигнал.
+item.map.name=Мапа
+item.map.desc=Нанеси на мапу свій край!
+item.leaves.name=Листя
+item.leaves.desc=Хрумкі й зелені.
+
+
+item.handcannon.unloaded.name=Ручниця
+item.handcannon.unloaded.desc=Відправляй й ворогів, і себе в політ!
+item.handcannon.loaded.name=Заряджена ручниця
+item.handcannon.loaded.desc=Все напоготові!
+
+item.bucket.icecream.name=Відро морозива
+item.bucket.icecream.desc=Холодний десерт, присипаний шоколадною стружкою та прикрашений вишенькою зверху.
+
+item.label.name=Ярлик
+item.label.desc=Дозволяє іменувати речі й істот. Можна фарбувати.
+
+item.candle.soulwax.name=Свічка душ
+item.candle.soulwax.desc=Бура воскова свічка, яка горить аномальним вогнем.
+
+item.jar.name=Банка
+item.jar.desc=Банка зі скла.
+item.lantern.firefly.green.name=Зелений ліхтарик зі світляками
+item.lantern.firefly.green.desc=Скляна банка з безліччю зелененьких світлячків.
+item.lantern.firefly.orange.name=Помаранчевий ліхтарик зі світляками
+item.lantern.firefly.orange.desc=Скляна банка з безліччю веселеньких світлячків.
+item.lantern.firefly.blue.name=Синій ліхтарик зі світляками
+item.lantern.firefly.blue.desc=Скляна банка з безліччю синеньких світлячків.
+item.lantern.firefly.red.name=Червоний ліхтарик зі світляками
+item.lantern.firefly.red.desc=Скляна банка з безліччю червоненьких світлячків.
+
+item.basket.name=Кошик
+item.basket.desc=Плетена тара для зберігання предметів.
+
+item.thatch.name=Солома
+item.thatch.desc=Пучок сухої трави.
+
+item.ore.raw.iron.name=Залізна руда
+item.ore.raw.iron.desc=Шматок необробленого заліза. Можна переплавити у залізний зливок.
+item.ore.raw.gold.name=Золота руда
+item.ore.raw.gold.desc=Шматок необробленого золота. Можна переплавити у золотий зливок.
+
+item.flag.name=Прапор
+item.flag.desc=Полотнище для позначення свого краю. Чудово виглядатиме із синьо-жовтими кольорами.
+item.flag.modified.name=Прапор (відредагований)
+item.flag.modified.desc=Полотнище для позначення свого краю.
+
+item.seat.name=Сідець
+item.seat.desc=Присядь, відпочинь.
+
+item.door.oak.painted.name=Таємні фарбовані дерев'яні двері
+item.door.oak.painted.desc=Га?! Звідки це в тебе?
+item.door.oak.painted.black.name=Чорні дерев'яні двері
+item.door.oak.painted.black.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.red.name=Червоні дерев'яні двері
+item.door.oak.painted.red.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.green.name=Зелені дерев'яні двері
+item.door.oak.painted.green.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.brown.name=Коричневі дерев'яні двері
+item.door.oak.painted.brown.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.blue.name=Сині дерев'яні двері
+item.door.oak.painted.blue.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.purple.name=Фіолетові дерев'яні двері
+item.door.oak.painted.purple.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.cyan.name=Бірюзові дерев'яні двері
+item.door.oak.painted.cyan.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.silver.name=Світло-сірі дерев'яні двері
+item.door.oak.painted.silver.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.gray.name=Сірі дерев'яні двері
+item.door.oak.painted.gray.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.pink.name=Рожеві дерев'яні двері
+item.door.oak.painted.pink.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.lime.name=Лаймові дерев'яні двері
+item.door.oak.painted.lime.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.yellow.name=Жовті дерев'яні двері
+item.door.oak.painted.yellow.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.lightblue.name=Блакитні дерев'яні двері
+item.door.oak.painted.lightblue.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.magenta.name=Пурпурні дерев'яні двері
+item.door.oak.painted.magenta.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.orange.name=Помаранчеві дерев'яні двері
+item.door.oak.painted.orange.desc=У кожному домі потрібна хоч одна.
+item.door.oak.painted.white.name=Білі дерев'яні двері
+item.door.oak.painted.white.desc=У кожному домі потрібна хоч одна.
+
+item.door.glass.name=Скляні двері
+item.door.glass.desc=Дуже гарні, але дуже відкриті.
+
+item.door.steel.name=Сталеві двері
+item.door.steel.desc=Вибухозахищені двері.
+
+item.rope.name=Мотузка
+item.rope.desc=Достатньо міцна, щоб витримати вагу людського тіла.
+
+item.wand.monster.name=Чарівна паличка 
+item.wand.monster.desc=Магічний інструмент, що дозволяє власнику створювати живих істот.
+
+item.paintbrush.name=Пензель
+item.paintbrush.desc=Може розфарбовувати блоки, якщо промокнути у фарбі.
+
+item.map.blank.name=Порожня мапа
+
+item.jar.butterfly.blue.name=Синій метелик у банці
+item.jar.butterfly.blue.desc=Скляна банка із синім метеликом.
+item.jar.butterfly.orange.name=Помаранчевий метелик у банці
+item.jar.butterfly.orange.desc=Скляна банка з помаранчевим метеликом.
+item.jar.butterfly.pink.name=Рожевий метелик у банці
+item.jar.butterfly.pink.desc=Скляна банка з рожевим метеликом.
+item.jar.butterfly.silver.name=Сріблястий метелик у банці
+item.jar.butterfly.silver.desc=Скляна банка зі світло-сірим метеликом.
+
+item.statue.stone.name=Кам'яна статуя
+item.statue.stone.desc=Декоративна кам'яна статуя для вивішування обладунків.
+item.statue.basalt.name=Базальтова статуя
+item.statue.basalt.desc=Декоративна базальтова статуя для вивішування обладунків.
+item.statue.limestone.name=Вапнякова статуя
+item.statue.limestone.desc=Декоративна вапнякова статуя для вивішування обладунків.
+item.statue.granite.name=Гранітна статуя
+item.statue.granite.desc=Декоративна гранітна статуя для вивішування обладунків.
+item.statue.marble.name=Мармурова статуя
+item.statue.marble.desc=Декоративна мармурова статуя для вивішування обладунків.
+item.statue.pigman.name=Статуя свинолюдини
+item.statue.pigman.desc=Старовинна мармурова статуя, знайдена в давно забутому місці
+
+item.dough.name=Тісто
+item.dough.desc=Сире тісто. Можна випікти у хліб.
+
+

@@ -1,0 +1,123 @@
+stat.startGame=Включень до гри наодинці
+stat.createWorld=Створено світів
+stat.loadWorld=Завантажено світів
+stat.joinMultiplayer=Включень до гри в мережі
+stat.leaveGame=Кількість від'єднань
+
+stat.playOneMinute=Награно хвилин
+
+stat.walkOneCm=Відстань пройдена
+stat.fallOneCm=Відстань, подолана при падінні
+stat.swimOneCm=Відстань, подолана над водою
+stat.flyOneCm=Відстань, подолана при літанні
+stat.climbOneCm=Відстань, подолана по драбині
+stat.diveOneCm=Відстань, подолана під водою
+stat.minecartOneCm=Відстань, подолана на вагонетці
+stat.boatOneCm=Відстань, подолана на човні
+stat.pigOneCm=Відстань, подолана на свині
+stat.jump=Стрибків
+stat.drop=Предметів викинуто
+
+stat.damageDealt=Завдано шкоди
+stat.damageTaken=Отримано шкоди
+stat.deaths=Кількість смертей
+stat.mobKills=Вбито мобів
+stat.playerKills=Вбито гравців
+stat.fishCaught=Виловлено риби
+
+stat.mineBlock=%1$s Видобуто
+stat.craftItem=%1$s Зкрафчено
+stat.useItem=%1$s Використано
+stat.breakItem=%1$s Зламано
+
+stat.crafted=Разів зкрафчено
+stat.used=Разів використано
+stat.mined=Разів викопано
+stat.depleted=Разів зламано/виснажено
+
+achievement.get=Отримано досягнення!
+
+achievement.taken=Отримано!
+
+achievement.requires=Потребує '%1$s'
+achievement.openInventory=Інвентаризація
+achievement.openInventory.desc=Натисни '%1$s', щоб відкрити інвентар.
+achievement.mineWood=Лісоруб
+achievement.mineWood.desc=Атакуй дерево, доки не випаде блок деревини.
+achievement.buildWorkBench=Інструментарій
+achievement.buildWorkBench.desc=Створи верстак із чотирьох дощок.
+achievement.buildPickaxe=Час копати!
+achievement.buildPickaxe.desc=Використай дошки і палиці для створення кайла.
+achievement.buildFurnace=Найгарячіша тема
+achievement.buildFurnace.desc=Створи піч з восьми блоків кругляку.
+achievement.acquireIron=Придбати нове "залізо"
+achievement.acquireIron.desc=Переплав злиток заліза.
+achievement.buildHoe=Час для бізнесу!
+achievement.buildHoe.desc=Використай дошки й палиці для створення мотики.
+achievement.makeBread=Хлібороб
+achievement.makeBread.desc=Виготуй хліба із пшениці.
+achievement.bakeCake=Це брехня
+achievement.bakeCake.desc=Пшоно, цукор, молоко й яйця!
+achievement.buildBetterPickaxe=Покращення обладнання
+achievement.buildBetterPickaxe.desc=Створи краще кайло.
+achievement.cookFish=Смачна рибка
+achievement.cookFish.desc=Спіймай та приготуй рибку!
+achievement.onARail=Подалі від суспільства
+achievement.onARail.desc=Подолай щонайменше 1 кілометр не виходячи з вагонетки.
+achievement.buildSword=Час контратакувати!
+achievement.buildSword.desc=Використай дошки й палиці для створення меча.
+achievement.killEnemy=Мисливець на почвар
+achievement.killEnemy.desc=Атакуй і знищ почвару.
+achievement.killCow=Перекидання корови
+achievement.killCow.desc=Роздобудь трошки шкіри.
+achievement.flyPig=Коли свині полетять
+achievement.flyPig.desc=Полети з обриву верхи на свині.
+achievement.getSensed=Зафіксовано ворога
+achievement.getSensed.desc=Пройди повз сенсор руху.
+achievement.craftHandCannon=Шутер від першої особи
+achievement.craftHandCannon.desc=Створи ручницю.
+achievement.collectStone=Неаполітанець
+achievement.collectStone.desc=Здобудь кожен тип каменю.
+achievement.crushBlocks=Криголам
+achievement.crushBlocks.desc=Збери блок льоду розчавивши його об обсидіан.
+achievement.repairArmor=Зброяр
+achievement.repairArmor.desc=Підлатай кольчужну броню.
+achievement.getChainmail=Закутий в ланцюги
+achievement.getChainmail.desc=Одягни повний комплект поновленої кольчужної броні.
+achievement.openGuidebook=Рецепт успіху
+achievement.openGuidebook.desc=Натисни '%1$s', щоб відкрити посібник.
+achievement.caughtEmAll="Всіх їх зберемо!"
+achievement.caughtEmAll.desc=Злови світляків усіх кольорів у банки.
+achievement.craftIcecream=Вишенька на торті
+achievement.craftIcecream.desc=Зроби відро морозива.
+achievement.craftPumpkinPie=Аромат осені
+achievement.craftPumpkinPie.desc=Приготуй гарбузовий пиріг.
+achievement.getDiamonds=Діаманти!
+achievement.getDiamonds.desc=Здобудь діамант із діамантової руди.
+achievement.allArmorTypes=І жнець, і на дуду грець
+achievement.allArmorTypes.desc=Вдягни обладунки з 4-ох різних комплектів.
+achievement.allMusicDiscs=Колекціонер платівок
+achievement.allMusicDiscs.desc=Збери всі платівки.
+achievement.tripleHit=Три зайці одним каменем!
+achievement.tripleHit.desc=Поціль у трьох мобів однією золотою стрілою.
+
+achievement.enterNether=Хочеться більше тепла…
+achievement.enterNether.desc=Увійди в Незер.
+achievement.swimNether=Хрещення
+achievement.swimNether.desc=Зроби купіль з розтопленого льоду.
+achievement.enterWarrens=Потайні глибини
+achievement.enterWarrens.desc=Проникни до Лабіринтів.
+achievement.getNethercoal=Гаряча штучка
+achievement.getNethercoal.desc=Здобудь вугілля Незеру.
+achievement.hitFireball=Подача!
+achievement.hitFireball.desc=Влуч в будь-яку істоту зарядом ґаста.
+achievement.sleepNether=Потужне пробудження
+achievement.sleepNether.desc=Спробувати виспатися в Незері.
+achievement.lightSign=Яскраві ідеї
+achievement.lightSign.desc=Використай пил світлокаменю на табличці.
+achievement.mostWanted=У розшуку
+achievement.mostWanted.desc=Розгнівай понад 10 свинозомбі.
+achievement.fastTravel=Міжвимірний гульвіса
+achievement.fastTravel.desc=Використай Незер, щоб промандрувати 8000 блоків у Верхньому світі.
+
+
