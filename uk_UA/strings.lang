@@ -1,9 +1,3 @@
-//compatibility
-worldType.paradise.default.name=Звичайний
-season.paradise.gold.name=Золотий
-season.paradise.silver.name=Сріблястий
-dimension.paradise.name=Небеса
-//
 dimension.overworld.name=Верхній світ
 dimension.nether.name=Незер
 dimension.drift.name=Небеса
@@ -197,3 +191,10 @@ container.minecart.name=Вагонетка
 container.crafting.name=Крафтинг
 container.inventory.name=Інвентар
 container.result.name=Результат
+
+//compatibility
+worldType.paradise.default.name=Звичайний
+season.paradise.gold.name=Золотий
+season.paradise.silver.name=Сріблястий
+dimension.paradise.name=Небеса
+//

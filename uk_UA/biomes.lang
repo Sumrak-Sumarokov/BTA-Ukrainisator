@@ -1,29 +1,3 @@
-//compatibility 
-biome.rainforest=Тропічний ліс
-biome.swampland=Трясовина
-biome.seasonal_forest=Сезонний ліс
-biome.forest=Діброва
-biome.forest.dry=Сухий ліс
-biome.grasslands=Степ
-biome.outback=Аутбек
-biome.shrubland=Чагарниковий луг
-biome.taiga=Тайга
-biome.boreal_forest=Бір
-biome.desert=Пустеля
-biome.plains=Рівнини
-biome.glacier=Льодовик
-biome.tundra=Тундра
-biome.meadow=Лука
-biome.paradise=Небеса
-biome.birch_forest=Березовий гай
-biome.retro=Ретро
-biome.hell=Пекло
-biome.swampland.muddy=Драговина
-biome.outback.grassy=Трав'янистий аутбек
-biome.caatinga=Каатинга
-biome.caatinga.plains=Рівнини каатинги
-biome.nether=Незер
-//
 biome.overworld.rainforest=Тропічний ліс
 biome.overworld.swampland=Трясовина
 biome.overworld.seasonal_forest=Сезонний ліс
@@ -54,3 +28,40 @@ biome.nether.crystal_forest=Кристальний ліс
 biome.nether.ash_plains=Попелясті рівнини
 biome.nether.boneyard=Гробовище
 biome.drift.drift=Дрифт
+
+biome.overworld.legacy.tundra=Бета тундра
+biome.overworld.legacy.savanna=Бета савана
+biome.overworld.legacy.desert=Бета пустеля
+biome.overworld.legacy.swampland=Бета драговина
+biome.overworld.legacy.taiga=Бета тайга
+biome.overworld.legacy.shrubland=Бета чагарниковий луг
+biome.overworld.legacy.forest=Бета діброва
+biome.overworld.legacy.seasonal_forest=Бета сезонний ліс
+biome.overworld.legacy.rainforest=Бета тропічний ліс
+
+//compatibility 
+biome.rainforest=Тропічний ліс
+biome.swampland=Трясовина
+biome.seasonal_forest=Сезонний ліс
+biome.forest=Діброва
+biome.forest.dry=Сухий ліс
+biome.grasslands=Степ
+biome.outback=Аутбек
+biome.shrubland=Чагарниковий луг
+biome.taiga=Тайга
+biome.boreal_forest=Бір
+biome.desert=Пустеля
+biome.plains=Рівнини
+biome.glacier=Льодовик
+biome.tundra=Тундра
+biome.meadow=Лука
+biome.paradise=Небеса
+biome.birch_forest=Березовий гай
+biome.retro=Ретро
+biome.hell=Пекло
+biome.swampland.muddy=Драговина
+biome.outback.grassy=Трав'янистий аутбек
+biome.caatinga=Каатинга
+biome.caatinga.plains=Рівнини каатинги
+biome.nether=Незер
+//

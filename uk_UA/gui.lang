@@ -1,22 +1,3 @@
-//compatibility
-gui.options.page.texture_packs.title=Пакети текстур
-gui.options.page.texture_packs.category.textures=Текстури
-gui.options.page.texture_packs.category.texture_packs.available=Наявні пакети текстур
-gui.options.page.texture_packs.category.texture_packs.selected=Використані пакети текстур
-gui.options.page.texture_packs.button.open_folder=Відкрити теку
-gui.options.page.texture_packs.button.apply=Задіяти пакет текстур
-gui.options.page.texture_packs.label.no_packs=Порожньо :(
-gui.options.page.texture_packs.label.outdated_pack.1=Застарілий пакет текстур!
-gui.options.page.texture_packs.label.outdated_pack.2=Цей пакет текстур не підходить для поточної версії BTA!
-
-gui.controller_setup.label.help.1=Якщо жодного контролера не виявлено, переконайся,
-gui.controller_setup.label.help.2=що все під'єднано правильно та перезапусти гру.
-
-gui.options.page.player.title=Гравець
-gui.options.page.player.category.player=Гравець
-//
-
-
 gui.achievement.label.get=Здобуто досягнення!
 gui.achievement.label.unlicensed.1=Better than Adventure! %s Твоя копія гри не ліцензована :(
 gui.achievement.label.unlicensed.2=(Або не вдалося під'єднатися до акаунту)
@@ -52,10 +33,10 @@ gui.bad_java_arch.label.body.4=Java з відкритим кодом, на кш�
 gui.bad_java_arch.button.download=Завантажити
 gui.bad_java_arch.button.continue=Продовжити
 
-gui.no_jce.label.title=Відсутній Java Cryptography Extension (JCE)!
+gui.no_jce.label.title=§l§4Відсутній Java Cryptography Extension (JCE)!§r
 gui.no_jce.label.body.1=Схоже, що ти запустив Better than Adventure! без JCE.
-gui.no_jce.label.body.2=Це зробить недоступним деякі інтернет функції, як завантаження
-gui.no_jce.label.body.3=звуків та спілкування у гри в мережі!
+gui.no_jce.label.body.2=§l§eЦе зламає ряд функцій, як гра по мережі!§r
+gui.no_jce.label.body.3=
 gui.no_jce.label.body.4=Будь ласка, завантаж джаву JRE актуальної версії
 gui.no_jce.label.body.5=з цим розширенням, на кшталт Eclipse Temurin.
 gui.no_jce.label.body.intel.disclaimer.1=Через проблеми сумісністі апаратного забезпечення Intel Graphics
@@ -65,6 +46,7 @@ gui.no_jce.button.download.recommended=Перейти до встановлен�
 gui.no_jce.button.download=Перейти до встановлення Java
 gui.no_jce.button.upgrade=Перейти до патчу JCE
 gui.no_jce.button.upgrade.recommended=Перейти до патчу JCE (Рекомендовано!)
+gui.no_jce.button.back=Головне меню
 gui.no_jce.button.continue=Продовжити
 
 gui.no_minecraft.label.title=Відсутні файли Minecraft Beta 1.7.3!
@@ -114,6 +96,24 @@ gui.create_world.button.cheats.off=Вимк.
 gui.create_world.button.world_type=Тип світу: %s
 gui.create_world.label.new_world=Новий світ
 gui.create_world.label.select_world_type=Вибір типу світу
+
+gui.world_settings.label.title=Налаштування світу
+gui.world_settings.button.done=Готово
+gui.world_settings.page.game_rules.title=Ігрові правила
+gui.world_settings.page.world_settings.title=Налаштування світу
+gui.world_settings.page.world_settings.category.overworld=Верхній світ
+gui.world_settings.page.world_settings.category.nether=Незер
+gui.world_settings.page.game_rules.button.on=Увімк.
+gui.world_settings.page.game_rules.button.off=Вимк.
+gui.world_settings.page.mob_spawning.title=Спавн мобів
+gui.world_settings.page.mob_spawning.button.on=Увімк.
+gui.world_settings.page.mob_spawning.button.off=Вимк.
+gui.world_settings.page.mob_spawning.hostile=Спавн ворожих мобів
+gui.world_settings.page.mob_spawning.passive=Спавн пасивних мобів
+gui.world_settings.label.starting_biome=Початковий біом
+gui.world_settings.page.starting_biome.biome.none=Бідь-який
+gui.world_settings.label.select_world_type=Обрати тип світу
+gui.world_settings.label.world_type=Тип світу
 
 gui.create_world.pages.general.title=Загальне
 gui.create_world.pages.general.label.world_name=Назва світу
@@ -186,8 +186,9 @@ gui.main_menu.label.splash.halloween=Щасливого Геловіну!
 gui.main_menu.label.splash.new_year=З Новим роком!
 gui.main_menu.label.disclaimer.1=Усі права належать Mojang Studios. Не є продуктом Minecraft.
 gui.main_menu.label.disclaimer.2=Не затверджено й не діє спільно з Mojang Studios або Microsoft.
-gui.main_menu.label.downloading_resources.1=Завантаження додаткових файлів: %s / %s
+gui.main_menu.label.downloading_resources.1=Завантажуються додаткові файли
 gui.main_menu.label.downloading_resources.2=До завершення цього процесу звуки можуть не відтворюватися!
+gui.main_menu.label.downloading_resources.connection.error=Не вдалося встановити додаткові файли!
 gui.main_menu.button.singleplayer=Гра наодинці
 gui.main_menu.button.multiplayer=Гра в мережі
 gui.main_menu.button.multiplayer.disabled=Гра в мережі (ще не дороблено!)
@@ -220,9 +221,12 @@ gui.options.page.general.category.gameplay=Ігролад
 gui.options.page.general.category.user_interface=Інтерфейс користувача
 gui.options.page.general.category.miscellaneous=Інше
 
+gui.options.page.player.title=Гравець
+gui.options.page.player.category.player=Гравець
+gui.options.page.audio.category.debug=Зневадження
+
 gui.options.page.audio.title=Аудіо
 gui.options.page.audio.category.audio=Аудіо
-gui.options.page.audio.category.debug=Зневадження
 
 gui.options.page.accessibility.title=Доступність
 gui.options.page.accessibility.category.accessibility=Доступність
@@ -246,15 +250,15 @@ gui.options.page.controls.category.hotbar=Панель швидкого дост
 gui.options.page.controls.category.view=Поле зору
 gui.options.page.controls.category.miscellaneous=Інше
 
-gui.options.page.asset_packs.title=Пакети ресурсів
-gui.options.page.asset_packs.category.textures=Текстури
-gui.options.page.asset_packs.category.asset_packs.available=Наявні пакети ресурсів
-gui.options.page.asset_packs.category.asset_packs.selected=Використані пакети ресурсів
-gui.options.page.asset_packs.button.open_folder=Відкрити теку
-gui.options.page.asset_packs.button.apply=Задіяти пакет ресурсів
-gui.options.page.asset_packs.label.no_packs=Порожньо :(
-gui.options.page.asset_packs.label.outdated_pack.1=Застарілий пакет!
-gui.options.page.asset_packs.label.outdated_pack.2=Цей пакет не підходить для поточної версії BTA!
+gui.options.page.texture_packs.title=Пакети текстур
+gui.options.page.texture_packs.category.textures=Текстури
+gui.options.page.texture_packs.category.texture_packs.available=Наявні пакети текстур
+gui.options.page.texture_packs.category.texture_packs.selected=Використані пакети текстур
+gui.options.page.texture_packs.button.open_folder=Відкрити теку
+gui.options.page.texture_packs.button.apply=Задіяти пакет текстур
+gui.options.page.texture_packs.label.no_packs=Порожньо :(
+gui.options.page.texture_packs.label.outdated_pack.1=Застарілий пакет текстур!
+gui.options.page.texture_packs.label.outdated_pack.2=Цей пакет текстур не підходить для поточної версії BTA!
 
 gui.options.page.language_packs.title=Мовні пакети
 gui.options.page.language_packs.category.language_packs=Мовні пакети
@@ -271,6 +275,7 @@ gui.options.page.debug.button.open.datadumper=Виконати скид дани
 gui.options.page.debug.button.open.sound_test=Відкрити перевірку звуку
 gui.options.page.debug.button.open.texture_viewer=Відкрити глядач текстур
 gui.options.page.debug.button.open.font_tester=Відкрити перевірку шрифту
+gui.options.page.debug.button.open.nbt_tester=Перевірка редагування NBT-даних
 gui.options.page.debug.button.open.achievements=Відкрити список досягнень
 gui.options.page.debug.button.wipestats=Видалити статистику
 gui.options.page.debug.button.unlockedall=Розблокувати всю статистику
@@ -279,8 +284,15 @@ gui.options.page.debug.button.crash.soft=Спровокувати помилку
 gui.options.page.debug.button.crash.hard=Спровокувати фатальну помилку
 gui.options.page.debug.button.music.skip=Примусово ввімкнути атмосферну музику
 gui.options.page.debug.button.garbage_collect=Запустити збирач сміття
+gui.options.page.debug.button.reload_commands=Перезавантажити команди
 
 gui.options.page.search.title=Пошук
+
+gui.options.difficultylock.button.no=Ні
+gui.options.difficultylock.button.yes=Так
+gui.options.difficultylock.warning.1=Ти точно хочеш зафіксувати
+gui.options.difficultylock.warning.2=складність цього світу?
+gui.options.difficultylock.warning.3=(Назавжди)
 
 gui.sound_test.label.title=Перевірка звуку
 gui.sound_test.label.repo=Сховище звуків: %s
@@ -334,6 +346,25 @@ gui.select_server.button.done=Готово
 gui.select_server.button.show_ip=Показати IP: %s
 gui.select_server.button.show_ip.on=Увімк.
 gui.select_server.button.show_ip.off=Вимк.
+gui.select_server.button.no_jce.warning=§l§eВідсутній JCE!
+
+gui.select_server.popup.add.prompt.name=Назва серверу:
+gui.select_server.popup.add.prompt.ip=IP адреса:
+gui.select_server.popup.add.button.save=Зберегти
+gui.select_server.popup.add.button.cancel=Скасувати
+gui.select_server.popup.add.showip.on=Показувати IP: Увімк.
+gui.select_server.popup.add.showip.off=Показувати IP: Вимк.
+
+gui.select_server.popup.edit.prompt.name=Назва серверу:
+gui.select_server.popup.edit.prompt.ip=IP адреса:
+gui.select_server.popup.edit.button.save=Зберегти
+gui.select_server.popup.edit.button.cancel=Скасувати
+gui.select_server.popup.edit.showip.on=Показувати IP: Увімк
+gui.select_server.popup.edit.showip.off=Показувати IP: OFF
+
+gui.select_server.popup.direct.prompt.ip=IP адреса:
+gui.select_server.popup.direct.button.connect=Під'єднатися
+gui.select_server.popup.direct.button.cancel=Скасувати
 
 gui.select_world.label.title=Обрати світ
 gui.select_world.label.world=Світ %s
@@ -376,10 +407,9 @@ gui.pick_monster.label.title=Обери якого моба заспавнити
 gui.model_viewer.slider.variant=Варіант: %d
 gui.model_viewer.slider.meta=Мутадані: %d
 gui.model_viewer.button.tickprogress=Швидкість такту: %s
-**gui.model_viewer.button.bulk_render=Bulk Render
+gui.model_viewer.button.bulk_render=Bulk відмалювання
 gui.model_viewer.button.rotate=Оберт назви: %s
 gui.model_viewer.button.reload_textures=Перезавантажити текстури
-
 gui.model_viewer.button.category=Категорія
 
 model.category.entity.info=Істота: %s
@@ -420,3 +450,24 @@ gui.credits.button.done=Готово
 gui.credits.label.title=Титри
 
 gui.tooltip.prompt.description=%s: Докладніше...
+
+
+//compatibility
+gui.main_menu.button.asset_packs=Пакети ресурсів
+
+gui.options.page.asset_packs.title=Пакети ресурсів
+gui.options.page.asset_packs.category.textures=Текстури
+gui.options.page.asset_packs.category.asset_packs.available=Наявні пакети ресурсів
+gui.options.page.asset_packs.category.asset_packs.selected=Використані пакети ресурсів
+gui.options.page.asset_packs.button.open_folder=Відкрити теку
+gui.options.page.asset_packs.button.apply=Задіяти пакет ресурсів
+gui.options.page.asset_packs.label.no_packs=Порожньо :(
+gui.options.page.asset_packs.label.outdated_pack.1=Застарілий пакет!
+gui.options.page.asset_packs.label.outdated_pack.2=Цей пакет не підходить для поточної версії BTA!
+
+gui.controller_setup.label.help.1=Якщо жодного контролера не виявлено, переконайся,
+gui.controller_setup.label.help.2=що все під'єднано правильно та перезапусти гру.
+
+gui.options.page.player.title=Гравець
+gui.options.page.player.category.player=Гравець
+//

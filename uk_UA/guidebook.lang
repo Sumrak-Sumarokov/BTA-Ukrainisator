@@ -27,7 +27,7 @@ guidebook.section.mob.drops=Дроп:
 
 guidebook.section.mob.undiscovered=Ця істота ще не виявлена.
 guidebook.section.mob.pig.name=Свиня
-guidebook.section.mob.pig.desc=Свині є цінним джерелом їжі, яке часто зустрічаються в дикій природі.\nВодяться майже всюди.
+guidebook.section.mob.pig.desc=Свині є цінним джерелом їжі, адже забеспечує м'ясом і часто зустрічаються в дикій природі.\nВодяться майже всюди.
 guidebook.section.mob.sheep.name=Вівця
 guidebook.section.mob.sheep.desc=Вівці постачають вовною, яка є незамінною для багатьох речей.\nВодяться майже всюди.
 guidebook.section.mob.cow.name=Корова

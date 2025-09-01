@@ -6,11 +6,11 @@ subtitles.mob.pig=Свиня рохкає
 subtitles.mob.pig.death=Свиня гине
 subtitles.mob.wolf.howl=Вовк виє
 subtitles.mob.wolf.panting=Вовк хекає
-subtitles.mob.wolf.hurt=Вовку боляче
+subtitles.mob.wolf.hurt=Вовк болісно виє
 subtitles.mob.wolf.bark=Вовк гавкає
 subtitles.mob.wolf.growl=Вовк гарчить
 subtitles.mob.wolf.death=Вовк гине
-subtitles.mob.wolf.whine=Вовк скиглить
+subtitles.mob.wolf.whine=Вовк виє
 subtitles.mob.wolf.shake=Вовк обтрушується
 subtitles.mob.cow.hurt=Корова болісно мукає
 subtitles.mob.cow=Корова мукає
@@ -37,6 +37,8 @@ subtitles.mob.spider=Павук шипить
 subtitles.mob.ghast.charge=Ґаст стріляє
 subtitles.mob.slime.attack=Слайм атакує
 subtitles.mob.slime=Слайм плюхає
+subtitles.mob.player.death=Гравець помер
+subtitles.mob.player.hurt=Гравець стогне
 
 subtitles.fall.small=Невеличке падіння
 subtitles.damage.fall.big=Величке падіння
@@ -92,6 +94,7 @@ subtitles.tile.piston.in=Товк втягується
 
 subtitles.tile.tnt.fuse=Вибухівка детонує
 subtitles.tile.sensor_block.sense=Істоту зафіксовано
+subtitles.tile.mobspawner.spawn=Істота з'явилася
 
 subtitles.tile.dispenser.click=Роздавач клацає
 subtitles.tile.dispenser.eject=Роздавач роздає
