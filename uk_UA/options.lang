@@ -338,3 +338,38 @@ key.debug.loadChunksQuickly=Швидко завантажувати чанки
 
 //compatibility
 options.alwaysShowDescriptions=Завжди показувати опис предметів
+
+//1.7.7.0
+options.tab.languages=Мовні пакети
+options.tab.general=Загальне
+options.tab.audio=Аудіо
+options.tab.video=Відео
+options.tab.controls=Керування
+options.tab.texturepacks=Пакети текст.
+
+options.category.gameplay=Ігролад
+options.category.ui=Користувацький інтерфейс
+options.category.misc=Інше
+options.category.audio=Аудіо
+options.category.graphics=Графіка
+options.category.performance=Продуктивність
+options.category.visuals=Візуальні ефекти
+options.category.postprocessing=Постобробка зображення
+options.category.controller=Контролер
+options.category.keyboard=Клавіатура
+options.category.mouse=Миша
+options.category.movement=Пересування
+options.category.view=Камери
+
+options.limitFramerate=Продуктивність
+
+options.chunkLoading=Завантаження чанків (потребує перезавантаження)
+options.chunkloading.dynamic=Динамічне
+options.chunkloading.static=Статичне
+
+options.worldHoleFix=Виправити непровантажені чанки
+
+performance.max=Макс FPS
+performance.balanced=Збалансований
+performance.powersaver=Ощадливий
+performance.vsync=V-sync

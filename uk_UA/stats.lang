@@ -119,3 +119,17 @@ achievement.mostWanted=У розшуку
 achievement.mostWanted.desc=Розгнівай понад 10 свинозомбі.
 achievement.fastTravel=Міжвимірний гульвіса
 achievement.fastTravel.desc=Використай Незер, щоб промандрувати 8000 блоків у Верхньому світі.
+
+//compatibility
+//1.7.7.0
+gui.achievements=Досягнення
+gui.stats=Статистики
+
+stat.generalButton=Загальне
+stat.blocksButton=блоки
+stat.itemsButton=Предмети
+
+stat.used=Разів використано
+stat.mined=Разів викопано
+stat.depleted=Разів зламано/виснажено
+stat.crafted=Разів зкрафчено

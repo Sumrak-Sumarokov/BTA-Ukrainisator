@@ -149,7 +149,7 @@ gui.furnace.blast.label.blast_furnace=Доменна піч
 gui.furnace.label.inventory=Інвентар
 
 gui.game_over.label.title=Кінець гри!
-gui.game_over.label.score=Очки за гру: %s
+gui.game_over.label.score=Рахунок за гру: %s
 gui.game_over.button.respawn=Відродитися
 gui.game_over.button.respawn.spectator=Наглядати
 gui.game_over.button.title_screen=Початковий екран
@@ -159,7 +159,7 @@ gui.guidebook.label.title=Посібник
 gui.ingame.label.now_playing=Зараз грає: %s
 
 gui.ingame_menu.label.title=Меню
-gui.ingame_menu.label.score=Очки: %s
+gui.ingame_menu.label.score=Рахунок: %s
 gui.ingame_menu.label.saving=Збереження...
 gui.ingame_menu.button.save_and_quit=Зберегти й вийти
 gui.ingame_menu.button.disconnect=Від'єднатися
@@ -405,7 +405,7 @@ gui.hud_designer.button.done=Готово
 gui.pick_monster.label.title=Обери якого моба заспавнити
 
 gui.model_viewer.slider.variant=Варіант: %d
-gui.model_viewer.slider.meta=Мутадані: %d
+gui.model_viewer.slider.meta=Метадані: %d
 gui.model_viewer.button.tickprogress=Швидкість такту: %s
 gui.model_viewer.button.bulk_render=Bulk відмалювання
 gui.model_viewer.button.rotate=Оберт назви: %s

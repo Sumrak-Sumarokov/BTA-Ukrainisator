@@ -197,4 +197,74 @@ worldType.paradise.default.name=Звичайний
 season.paradise.gold.name=Золотий
 season.paradise.silver.name=Сріблястий
 dimension.paradise.name=Небеса
-//
+
+//1.7.7.0
+gui.done=Готово
+gui.cancel=Скасувати
+gui.toMenu=Назад до головного екрану
+gui.up=Вверх
+gui.down=Вниз
+gui.yes=Так
+gui.no=Ні
+gui.ok=OK
+
+menu.singleplayer=Гра наодинці
+menu.multiplayer=Гра в мережі
+menu.multiplayer.disabled=Гра в мережі (ще не дороблено!)
+menu.mods=Пакети текстур
+menu.options=Параметри...
+menu.quit=Вийти з гри
+menu.saveAndQuit=Зберегти й вийти
+
+gui.photomode.help_text=Тицьни й потягни, щоб рухати й обертати.
+
+selectWorld.title=Обрати сервер
+selectWorld.empty=Порожньо
+selectWorld.world=Світ
+selectWorld.moreWorldOptions=Налаштування світу
+selectWorld.select=Увійти в обраний світ
+selectWorld.create=Створити новий світ
+selectWorld.createDemo=Увійти в демостр. світ
+selectWorld.delete=Видалити
+selectWorld.rename=Переймен.
+selectWorld.deleteQuestion=Ти певен що хочеш видалити цей світ?
+selectWorld.deleteWarning='%s' буде втрачено назавжди! (На дуже-дуже довго!)
+selectWorld.deleteButton=Видалити
+selectWorld.renameButton=Переймен.
+selectWorld.renameTitle=Перейменувати світ
+selectWorld.conversion=Необхідне переобладнання світу!
+selectWorld.outdated=Застаріле - неможливо запустити (поки що!)
+selectWorld.newWorld=Новий світ
+selectWorld.enterName=Назва світу
+selectWorld.gamemode=Режими:
+selectWorld.cheats=Чити:
+selectWorld.worldType=Тип світу:
+selectWorld.worldTypeTitle=Обрати тип світу
+selectWorld.enterSeed=Код генерації
+selectWorld.deleteTitle=Видалити світ
+
+level.generating=Створення світу...
+level.loading=Завантаження світу...
+
+controller.noControllerSelected=Не обрано контролер!
+controller.back=Назад
+controller.help1=Якщо контролер не знайдено, переконайтеся,
+controller.help2=що гру запущено з підключеним контролером.
+
+selectServer.title=Грати в мережі
+selectServer.connect=Під'єднатися
+selectServer.ip=Пряме підключен.
+selectServer.add=Додати сервер
+selectServer.delete=Видалити
+selectServer.refresh=Оновити
+selectServer.edit=Редагувати
+selectServer.renameServer=Редагувати сервер
+selectServer.serverName=Назва сервера
+selectServer.serverIp=IP сервера
+selectServer.deleteQuestion=Ти певен, що хочеш видалити цей сервер?
+selectServer.deleteWarning='%s' буде втрачено назавжди! (На дуже-дуже довго!)
+
+addServer.title=Додати сервер
+addServer.serverName=Назва сервера
+addServer.ipAddress=IP сервера
+addServer.save=Зберегти
