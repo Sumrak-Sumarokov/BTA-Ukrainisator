@@ -197,8 +197,8 @@ gui.main_menu.button.options=Параметри...
 gui.main_menu.button.quit_game=Вийти з гри
 gui.main_menu.button.discord=Discord
 gui.main_menu.button.youtube=YouTube
-gui.main_menu.button.website=Офіційний сайт
-gui.main_menu.button.credits=Титри
+gui.main_menu.button.website=Веб-сайт
+gui.main_menu.button.credits=Данина
 
 gui.out_of_memory.label.title=Не вистачає пам'яті!
 gui.out_of_memory.label.body.1=Minecraft'у бракує оперативної пам'яті.
