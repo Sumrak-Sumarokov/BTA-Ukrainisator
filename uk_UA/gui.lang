@@ -116,9 +116,9 @@ gui.world_settings.label.world_type=Тип світу
 
 gui.select_server.page.internet.title=Глобальна мережа
 gui.select_server.page.favorites.title=Улюблені
-gui.select_server.page.history.title=Інсторія
+gui.select_server.page.history.title=Дієпис
 gui.select_server.page.lan.title=Локальна мережа
-gui.select_server.page.direct_connect.title=Direct Connect
+gui.select_server.page.direct_connect.title=Пряме з'єднання
 
 gui.dispenser.label.dispenser=Роздавач
 gui.dispenser.label.inventory=Інвентар
