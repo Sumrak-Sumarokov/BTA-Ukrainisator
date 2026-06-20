@@ -228,7 +228,7 @@ options.screen.motion.effects=Ефекти заколисування
 
 options.tooltipStyle.default=За замовч.
 options.tooltipStyle.modern=Сучасний
-options.tooltipStyle.metallic=Метал
+options.tooltipStyle.metallic=Металевий
 options.tooltipStyle.stone=Камінь
 options.tooltipStyle.planks=Дошки
 options.tooltipStyle.rpg=РПГ
@@ -331,7 +331,7 @@ key.debug.pauseFocus=Ставити на паузу при згортанні
 key.debug.iteminfo=Показати додаткову інформацію предметів
 key.debug.reloadchunks=Перезавантажити чанки
 key.debug.smoothlighting=Перемикнути плавне освітлення
-key.debug.releasecursor=Release Cursor**
+key.debug.releasecursor=Розосередити курсор
 key.debug.shortcuts=Показати комбінації клавіш
 key.debug.loadChunksQuickly=Швидко завантажувати чанки
 

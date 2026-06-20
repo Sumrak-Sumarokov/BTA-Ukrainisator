@@ -243,7 +243,7 @@ item.string.desc=Шовковиста нитка павука.
 item.feather.chicken.name=Перо
 item.feather.chicken.desc=Видерте з курки.
 item.gunpowder.name=Порох
-item.gunpowder.desc=Вибухова речовина, що отримана з непримиренного кріпера.
+item.gunpowder.desc=Вибухова речовина отримана з непримиренного кріпера.
 item.flint.name=Кремінь
 item.flint.desc=Легковага скалка каменю. Можна використовувати для висікання вогню.
 
@@ -513,6 +513,8 @@ item.rope.desc=Достатньо міцна, щоб витримати вагу
 
 item.wand.monster.name=Чарівна паличка 
 item.wand.monster.desc=Магічний інструмент, що дозволяє власнику створювати живих істот.
+item.wand.nbt.name=NBT паличка
+item.wand.nbt.desc=A magical tool allowing the wielder to modify an object's data.
 
 item.paintbrush.name=Пензель
 item.paintbrush.desc=Може розфарбовувати блоки, якщо промокнути у фарбі.

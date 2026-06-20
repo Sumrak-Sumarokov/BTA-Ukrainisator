@@ -1,0 +1,181 @@
+tile.FlowerPotMod.flowerpot_rosebottom.name=Зільник троянд
+tile.FlowerPotMod.flowerpot_rosebottom.desc=Пишний горщик троянд.
+tile.FlowerPotMod.flowerpot_rosetop.name=Букет троянд
+tile.FlowerPotMod.flowerpot_rosetop.desc=Пишний пучок троянд.
+
+tile.FlowerPotMod.flowerpot_dandelionbottom.name=Зільник кульбабок
+tile.FlowerPotMod.flowerpot_dandelionbottom.desc=Пишний горщик кульбабок.
+tile.FlowerPotMod.flowerpot_dandeliontop.name=Букет кульбабок
+tile.FlowerPotMod.flowerpot_dandeliontop.desc=Пишний пучок кульбабок.
+
+tile.FlowerPotMod.flowerpot_marigoldbottom.name=Зільник нагідок
+tile.FlowerPotMod.flowerpot_marigoldbottom.desc=Пишний горщик нагідок.
+tile.FlowerPotMod.flowerpot_marigoldtop.name=Букет нагідок
+tile.FlowerPotMod.flowerpot_marigoldtop.desc=Пишний пучок нагідок.
+
+tile.FlowerPotMod.flowerpot_bluebellbottom.name=Зільник дзвоників
+tile.FlowerPotMod.flowerpot_bluebellbottom.desc=Пишний горщик дзвоників.
+tile.FlowerPotMod.flowerpot_bluebelltop.name=Букет дзвоників
+tile.FlowerPotMod.flowerpot_bluebelltop.desc=Пишний пучок дзвоників.
+
+tile.FlowerPotMod.flowerpot_heatherbottom.name=Зільник вересу
+tile.FlowerPotMod.flowerpot_heatherbottom.desc=Пишний горщик вересу.
+tile.FlowerPotMod.flowerpot_heathertop.name=Букет вересу
+tile.FlowerPotMod.flowerpot_heathertop.desc=Пишний пучок вересу.
+
+tile.FlowerPotMod.flowerpot_orchidbottom.name=Зільник орхідей
+tile.FlowerPotMod.flowerpot_orchidbottom.desc=Пишний горщик орхідей.
+tile.FlowerPotMod.flowerpot_orchidtop.name=Букет орхідей
+tile.FlowerPotMod.flowerpot_orchidtop.desc=Пишний пучок орхідей.
+
+tile.FlowerPotMod.flowerpot_glorybottom.name=Зільник пролісків
+tile.FlowerPotMod.flowerpot_glorybottom.desc=Пишний горщик пролісків.
+tile.FlowerPotMod.flowerpot_glorytop.name=Букет пролісків
+tile.FlowerPotMod.flowerpot_glorytop.desc=Пишний пучок пролісків.
+
+tile.FlowerPotMod.flowerpot_wintergreenbottom.name=Зільник зимолюбок
+tile.FlowerPotMod.flowerpot_wintergreenbottom.desc=Пишний горщик зимолюбок.
+tile.FlowerPotMod.flowerpot_wintergreentop.name=Букет зимолюбок
+tile.FlowerPotMod.flowerpot_wintergreentop.desc=Пишний пучок зимолюбок.
+
+tile.FlowerPotMod.flowerpot_nightshadebottom.name=Зільник пасльону
+tile.FlowerPotMod.flowerpot_nightshadebottom.desc=Пишний горщик пасльону.
+tile.FlowerPotMod.flowerpot_nightshadetop.name=Букет пасльону
+tile.FlowerPotMod.flowerpot_nightshadetop.desc=Пучок пишних nightshade.
+
+
+tile.FlowerPotMod.flowerpot_gloryflower.name=Пролісок
+tile.FlowerPotMod.flowerpot_gloryflower.desc=Холодна бірюзова квітонька.
+tile.FlowerPotMod.flowerpot_wintergreenflower.name=Зимолюбка
+tile.FlowerPotMod.flowerpot_wintergreenflower.desc=Морозна лаймова квітонька.
+tile.FlowerPotMod.flowerpot_nightshadeflower.name=Паслін
+tile.FlowerPotMod.flowerpot_nightshadeflower.desc=Тривожна пурпурна квітонька.
+
+tile.FlowerPotMod.flowerpot_whitemushroom.name=Білий гриб
+tile.FlowerPotMod.flowerpot_whitemushroom.desc=Загадковий білий гриб. Отруйний.
+
+
+
+tile.FlowerPotMod.flowerpot_simplebottom.name=Простий зільник
+tile.FlowerPotMod.flowerpot_simplebottom.desc=Примітивна композиція звичайних квіток.
+tile.FlowerPotMod.flowerpot_variedbottom.name=Строкатий зільник
+tile.FlowerPotMod.flowerpot_variedbottom.desc=Яскрава композиція звичайних квіток.
+tile.FlowerPotMod.flowerpot_warmbottom.name=Теплий зільник
+tile.FlowerPotMod.flowerpot_warmbottom.desc=Затишна композиція теплолюбних квіток.
+tile.FlowerPotMod.flowerpot_coolbottom.name=Холодний зільник
+tile.FlowerPotMod.flowerpot_coolbottom.desc=Студена композиція холодостійких квіток.
+tile.FlowerPotMod.flowerpot_weedbottom.name=Зільник бур'янів
+tile.FlowerPotMod.flowerpot_weedbottom.desc=Химерна композиція бур'янів.
+
+tile.FlowerPotMod.flowerpot_simpletop.name=Простий букет
+tile.FlowerPotMod.flowerpot_simpletop.desc=Пучок звичайних квіток.
+tile.FlowerPotMod.flowerpot_variedtop.name=Строкатий букет
+tile.FlowerPotMod.flowerpot_variedtop.desc=Пучок різноманітних квіток.
+tile.FlowerPotMod.flowerpot_warmtop.name=Теплий букет
+tile.FlowerPotMod.flowerpot_warmtop.desc=Пучок теплолюбних квіток.
+tile.FlowerPotMod.flowerpot_cooltop.name=Холодний букет
+tile.FlowerPotMod.flowerpot_cooltop.desc=Пучок холодостійких квіток.
+tile.FlowerPotMod.flowerpot_weedtop.name=Букет бур'янів
+tile.FlowerPotMod.flowerpot_weedtop.desc=Пучок бур'янів.
+
+
+tile.FlowerPotMod.flowerpot_shroombottom.name=Гриби в горщику
+tile.FlowerPotMod.flowerpot_shroombottom.desc=Колонія грибів саджена в горщик для вирощування. Використовуй кісткове борошно для стимуляції росту плодів.
+tile.FlowerPotMod.flowerpot_shroomtop.name=Букет грибів
+tile.FlowerPotMod.flowerpot_shroomtop.desc=Пучок колонії грибів.
+tile.FlowerPotMod.flowerpot_shroomtop_flowering.name=Квітучий букет грибів
+tile.FlowerPotMod.flowerpot_shroomtop_flowering.desc=Пучок квітучої колонії грибів.
+tile.FlowerPotMod.flowerpot_shroomtop_fruiting.name=Плодовий букет грибів
+tile.FlowerPotMod.flowerpot_shroomtop_fruiting.desc=Пучок плодової колонії грибів.
+
+tile.FlowerPotMod.flowerpot_brownshroombottom.name=Коричневі гриби в горщику
+tile.FlowerPotMod.flowerpot_brownshroombottom.desc=Чудний горщик коричневих грибів.
+tile.FlowerPotMod.flowerpot_brownshroomtop.name=Грикет коричневих грибів
+tile.FlowerPotMod.flowerpot_brownshroomtop.desc=Пучок коричневих грибів.
+tile.FlowerPotMod.flowerpot_redshroombottom.name=Червоні гриби в горщику
+tile.FlowerPotMod.flowerpot_redshroombottom.desc=A Чудний горщик червоних грибів.
+tile.FlowerPotMod.flowerpot_redshroomtop.name=Грикет червоних грибів
+tile.FlowerPotMod.flowerpot_redshroomtop.desc=Пучок червоних грибів.
+tile.FlowerPotMod.flowerpot_whiteshroombottom.name=Білі гриби в горщику
+tile.FlowerPotMod.flowerpot_whiteshroombottom.desc=Чудний горщик білих грибів.
+tile.FlowerPotMod.flowerpot_whiteshroomtop.name=Грикет білих грибів
+tile.FlowerPotMod.flowerpot_whiteshroomtop.desc=Пучок білих грибів.
+
+tile.FlowerPotMod.flowerpot_deadbottom.name=Мертвий кущ у горщику
+tile.FlowerPotMod.flowerpot_deadbottom.desc=Купа тонких гілочок і прутиків неясної приналежності.
+tile.FlowerPotMod.flowerpot_deadtop.name=Мертві кущі
+tile.FlowerPotMod.flowerpot_deadtop.desc=Пучок тонких гілочок і прутиків неясної приналежності.
+
+tile.FlowerPotMod.flowerpot_sugarcanebottom.name=Цукрова тростина в горщику
+tile.FlowerPotMod.flowerpot_sugarcanebottom.desc=Піщаний горщик товстого очерету.
+tile.FlowerPotMod.flowerpot_sugarcanetop.name=Цукрові тростини
+tile.FlowerPotMod.flowerpot_sugarcanetop.desc=Піщаний пучок товстого очерету.
+
+tile.FlowerPotMod.flowerpot_fernbottom.name=Папороть у горщику
+tile.FlowerPotMod.flowerpot_fernbottom.desc=Гарний горщик папороті.
+tile.FlowerPotMod.flowerpot_ferntop.name=Папороті
+tile.FlowerPotMod.flowerpot_ferntop.desc=Гарний пучок папороті.
+
+tile.FlowerPotMod.flowerpot_spinifexbottom.name=Спініфекс у горщику
+tile.FlowerPotMod.flowerpot_spinifexbottom.desc=Колючий горщик спініфексу.
+tile.FlowerPotMod.flowerpot_spinifextop.name=Спініфекси
+tile.FlowerPotMod.flowerpot_spinifextop.desc=Колючий пучок спініфексу.
+
+tile.FlowerPotMod.flowerpot_emptybottom.name=Порожній горщик
+tile.FlowerPotMod.flowerpot_emptybottom.desc=Порожній горщик, наповнений нічим, окрім ґрунту. Fill by shearing an occupied pot. Можна засадити квітами з іншого горщика, зрізавши їх ножицями.
+
+
+tile.FlowerPotMod.flowerpot_oakbottom.name=Дерево дуба в горщику
+tile.FlowerPotMod.flowerpot_oakbottom.desc=Кімнатне мініатюрне дубове дерево.
+tile.FlowerPotMod.flowerpot_birchbottom.name=Дерево берези в горщику
+tile.FlowerPotMod.flowerpot_birchbottom.desc=Кімнатне мініатюрне березове дерево.
+tile.FlowerPotMod.flowerpot_pinebottom.name=Дерево сосни в горщику
+tile.FlowerPotMod.flowerpot_pinebottom.desc=Кімнатне мініатюрне соснове дерево.
+tile.FlowerPotMod.flowerpot_cherrybottom.name=Дерево вишні в горщику
+tile.FlowerPotMod.flowerpot_cherrybottom.desc=Посаджене мініатюрне вишневе дерево. Використовуй кісткове борошно для стимуляції росту плодів.
+tile.FlowerPotMod.flowerpot_palmbottom.name=Дерево пальми в горщику
+tile.FlowerPotMod.flowerpot_palmbottom.desc=Кімнатне мініатюрне пальмове дерево.
+tile.FlowerPotMod.flowerpot_thornbottom.name=Дерево акації в горщику
+tile.FlowerPotMod.flowerpot_thornbottom.desc=Кімнатне мініатюрне акаційове дерево.
+tile.FlowerPotMod.flowerpot_eucalyptusbottom.name=Дерево евкаліпта в горщику
+tile.FlowerPotMod.flowerpot_eucalyptusbottom.desc=Кімнатне мініатюрне евкаліптове дерево.
+tile.FlowerPotMod.flowerpot_shrubbottom.name=Дерево чагарнику в горщику
+tile.FlowerPotMod.flowerpot_shrubbottom.desc=Кімнатне мініатюрне чагарникове дерево.
+tile.FlowerPotMod.flowerpot_mossybottom.name=Моховите дерево дуба в горщику
+tile.FlowerPotMod.flowerpot_mossybottom.desc=Кімнатне мініатюрне дубове дерево, що поросло мохом.
+tile.FlowerPotMod.flowerpot_cocoabottom.name=Дерево какао в горщику
+tile.FlowerPotMod.flowerpot_cocoabottom.desc=Посаджене мініатюрне какао дерево. Використовуй кісткове борошно для стимуляції росту плодів.
+tile.FlowerPotMod.flowerpot_retrobottom.name=Ретро дерево дуба в горщику
+tile.FlowerPotMod.flowerpot_retrobottom.desc=Кімнатне мініатюрне дубове дерево, з далеких країв.
+
+
+tile.FlowerPotMod.flowerpot_oaktop.name=Мініатюрне дерево дуба
+tile.FlowerPotMod.flowerpot_oaktop.desc=Мініатюрне дубове дерево.
+tile.FlowerPotMod.flowerpot_birchtop.name=Мініатюрне дерево берези
+tile.FlowerPotMod.flowerpot_birchtop.desc=Мініатюрне березове дерево.
+tile.FlowerPotMod.flowerpot_pinetop.name=Мініатюрне дерево сосни
+tile.FlowerPotMod.flowerpot_pinetop.desc=Мініатюрне соснове дерево.
+tile.FlowerPotMod.flowerpot_cherrytop.name=Мініатюрне дерево вишні
+tile.FlowerPotMod.flowerpot_cherrytop.desc=Мініатюрне вишневе дерево.
+tile.FlowerPotMod.flowerpot_cherrytop_flowering.name=Мініатюрне квітуче дерево вишні
+tile.FlowerPotMod.flowerpot_cherrytop_flowering.desc=Мініатюрне квітуче вишневе дерево.
+tile.FlowerPotMod.flowerpot_cherrytop_fruiting.name=Мініатюрне плодоносне дерево вишні
+tile.FlowerPotMod.flowerpot_cherrytop_fruiting.desc=Плодоносне мініатюрне вишневе дерево.
+tile.FlowerPotMod.flowerpot_palmtop.name=Мініатюрне дерево пальми
+tile.FlowerPotMod.flowerpot_palmtop.desc=Мініатюрне пальмове дерево.
+tile.FlowerPotMod.flowerpot_thorntop.name=мініатюрне дерево акації
+tile.FlowerPotMod.flowerpot_thorntop.desc=Мініатюрне акацієве дерево.
+tile.FlowerPotMod.flowerpot_eucalyptustop.name=Мініатюрне дерево евкаліпта
+tile.FlowerPotMod.flowerpot_eucalyptustop.desc=Мініатюрне евкаліптове дерево.
+tile.FlowerPotMod.flowerpot_shrubtop.name=Мініатюрне дерево чагарнику
+tile.FlowerPotMod.flowerpot_shrubtop.desc=Мініатюрне чагарникове дерево.
+tile.FlowerPotMod.flowerpot_mossytop.name=Мініатюрне моховите дерево дуба
+tile.FlowerPotMod.flowerpot_mossytop.desc=Мініатюрне дубове дерево, що поросло мохом.
+tile.FlowerPotMod.flowerpot_cocoatop.name=Мініатюрне дерево какао
+tile.FlowerPotMod.flowerpot_cocoatop.desc=Мініатюрне какао дерево.
+tile.FlowerPotMod.flowerpot_cocoatop_flowering.name=Мініатюрне квітуче дерево какао
+tile.FlowerPotMod.flowerpot_cocoatop_flowering.desc=Квітуче мініатюрне какао дерево.
+tile.FlowerPotMod.flowerpot_cocoatop_fruiting.name=Мініатюрне плодоносне дерево какао
+tile.FlowerPotMod.flowerpot_cocoatop_fruiting.desc=Плодоносне мініатюрне какао дерево.
+tile.FlowerPotMod.flowerpot_retrotop.name=Мініатюрне ретро дерево дуба
+tile.FlowerPotMod.flowerpot_retrotop.desc=Мініатюрне дубове дерево, з далеких країв.
